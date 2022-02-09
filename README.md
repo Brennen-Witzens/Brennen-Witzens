@@ -8,9 +8,9 @@ Things that I'm interested in are cats, anime and manga, good animations and art
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://brennenwitzens.intensive.gamedevhq.com)
+[![website](./img/globe-dark.svg)](https://brennenwitzens.intensive.gamedevhq.com)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/brennen-witzens-42412a1ab/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/brennen-witzens-42412a1ab/)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
