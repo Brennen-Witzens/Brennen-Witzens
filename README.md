@@ -1,16 +1,16 @@
 # Hi there, I'm Brennen. 👋 
 
 
-## I'm a Unity Developer
-I'm a Unity developer always looking to improve my skills and learn new things. I know C#, am currently learning Python, and within Unity I know how to write Custom editor tools and propery drawers.
-Going forward I want to continue learning and improving my skills in the custom tools writing, improve in the UX and UI design space.
+## I'm a Unity Developer gone Backend Developer
+I'm a Unity developer always looking to improve my skills and learn new things, and after having explored backend development that is what I focus on now. I know C# with Unity skills, I've also learned Go, Rust, Typescript and Flutter. 
+I've really been interested in tooling lately, as well as trying to get better at understanding the lower level of how computers function.
 Things that I'm interested in are cats, anime and manga, good animations and art, and listening to new kinds of music. 
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)](https://brennenwitzens.intensive.gamedevhq.com)
+[![website](./img/globe-dark.svg)](http://www.yourwitzens.com)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/brennen-witzens-42412a1ab/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/brennen-w-42412a1ab/)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
